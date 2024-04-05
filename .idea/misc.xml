@@ -9,6 +9,7 @@
       <list>
         <option value="$PROJECT_DIR$/WebSoket/pom.xml" />
         <option value="$PROJECT_DIR$/BigFileTrans/pom.xml" />
+        <option value="$PROJECT_DIR$/OfficeCollection/pom.xml" />
       </list>
     </option>
   </component>
